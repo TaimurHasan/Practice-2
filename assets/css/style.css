@@ -66,3 +66,21 @@ footer a {
     color: #024e76;
 }
 
+section {
+    padding: 60px;
+}
+
+.hero {
+    background-image: url("../images/hero-bg.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-form {
+    background-color: #fce138;
+    padding: 20px;
+    color:#024e76;
+    width: 500px;
+    border: solid 3px #024e76;
+}
